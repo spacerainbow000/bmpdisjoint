@@ -5,4 +5,4 @@ right now it's set up for an NxN array of bools, that could easily be changed to
 
 the algorithm isn't exactly efficient but works fine for small 'files' (I only tested with smallish arrays of bools)
 
-in terms of practical application, would be good for a first pass to generate inputs for a NN, probly a classifier
+in terms of practical application, would be good for a first pass to generate inputs for a NN
